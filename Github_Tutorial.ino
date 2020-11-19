@@ -13,6 +13,7 @@
 
 void setup()
 {
+  // This is a test comment
   Serial.begin(9600);
   Serial.println("Trimpot read example");
 
